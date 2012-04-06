@@ -1,0 +1,9 @@
+name: ${project.name}
+version: ${build.number}
+author: md_5
+description: ${project.description}
+main: com.md_5.swcensor.Censor
+
+commands:
+  age:
+    description: View and set information about your age
